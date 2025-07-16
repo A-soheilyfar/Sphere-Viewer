@@ -153,5 +153,17 @@ viewer = new Viewer({
    <li>مدیریت lifecycle (mount / destroy)</li>
 </ul>
 
+## جمع بندی
+
+| ویژگی                     | توضیح                                                                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| پشتیبانی از انواع adapter | equirectangular, cubemap, dual-fisheye و... ([Lightrun][1], [photo-sphere-viewer.js.org][2], [photo-sphere-viewer.js.org][3]) |
+| پلاگین‌های متنوع          | Marker, VirtualTour, Compass, Gallery                                                                                         |
+| قابلیت شخصی‌سازی navbar   | افزودن دکمه‌های دلخواه                                                                                                        |
+| کنترل زاویه تصویر         | تنظیمات پیش‌فرض yaw, pitch و محدوده زوم                                                                                       |
+
+[1]: https://lightrun.com/answers/mistic100-photo-sphere-viewer-how-to-use-photo-sphere-viewer-plugins-in-vue-project?utm_source=chatgpt.com "How to use photo-sphere-viewer plugins in vue project - Lightrun"
+[2]: https://photo-sphere-viewer.js.org/guide/config.html?utm_source=chatgpt.com "Configuration - Photo Sphere Viewer"
+[3]: https://photo-sphere-viewer.js.org/guide/adapters/?utm_source=chatgpt.com "Adapters | Photo Sphere Viewer"
 
 
